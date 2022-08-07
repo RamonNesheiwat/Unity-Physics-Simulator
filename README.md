@@ -1,1 +1,1 @@
-# Unity-Physics-Simulator
+This is a Unity project that allows you to test two boxes. Left clicking on a box will allow you to edit it's velocity and mass. Holding left click on a box will allow you to apply a force to the box like a slingshot to shoot the box in any direction. Right clicking the box will allow you to drag the box around and left clicking again while holding the box drops the box. You can click on the building to changes its mass, and the floor to change its friction value. Press the escape button to exit the application.
